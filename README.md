@@ -17,7 +17,7 @@ im going to be honest sometimes i can't even say my own nickname lol.
 
 ### here's what i'm working on:
 1. **LinkMC** - *a minecraft and discord account verification platform.*
-2. **SHuDR** - *a self hostable security focused replacement for Discord, taking the best of Discord, Teamspeak, and Slack and making it self-hostable. name subject to change, "**S**elf **H**ostable **u**sable **D**iscord **R**eplacement"*
+2. **Astrus Project** - *a self hostable security focused replacement for Discord, taking the best of Discord, Teamspeak, and Slack and making it self-hostable. name subject to change, "**S**elf **H**ostable **u**sable **D**iscord **R**eplacement"*
 3. SoundByte or "**.mikuPlayer**" - *a self-hostable & decentralized music player so you and your friends can share your legally obtained MP3s or, with full streaming and lossless support.*
 4. **Mountain** - *a minecraft java pvp client for version 1.8, with minor 1.16 and 1.20 support.*
 
