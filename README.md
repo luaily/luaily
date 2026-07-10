@@ -1,6 +1,6 @@
 ## hello!
-i'm luaily, a below average american high school art student, graphic designer, game and software developer and animator.  
-i excel in procrastination, im serious, if you need something done, give me a deadline set the week before you need it done and don't tell me, or else it won't get done on time.
+i'm luaily, a below average american art student, graphic designer, game and software developer and animator.  
+i excel in procrastination, im serious, if you need something done, give me a deadline set like a week before you need it done and don't tell me, or else it won't get done on time.
 
 ### technical pronunciation key: `/loʊ-ˈæli/`
 use something like [IPA reader](https://ipa-reader.com/) to hear the above key pronounced. 
@@ -17,11 +17,12 @@ im going to be honest sometimes i can't even say my own nickname lol.
 
 ### here's what i'm working on:
 1. **LinkMC** - *a minecraft and discord account verification platform. (REWRITTEN)*
-2. **statusd** - *a simple way to watch all of your various homeserver machines and processes quickly using*
-3. **Astrus Project** - *a self hostable security focused replacement for Discord, taking the best of Discord, Teamspeak, and Slack and making it self-hostable. Like Matrix but better for friend groups.
+2. **Project: Chlorine** (live mixing software) - *an advanced live A/V mixing software that harnesses CorridorKey in a Live Export usable format.*
+3. **Astrus Project** - *a self hostable security focused replacement for Discord, taking the best of Discord, Teamspeak, and Slack and making it self-hostable. Like Matrix but better for friend groups & communities.
 
 #### now as a side project:
-* **Mountain** - *a minecraft java pvp client for version 1.8, with minor 1.16 and 1.20 support.*
+* **Mountain** - *a minecraft java pvp client for version 1.8, with minor 1.16 and 26.x support.*
+* **statusd** - *a simple way to watch all of your various homeserver machines and processes quickly using*
 * "**.mikuPlayer**" - *a self-hostable & decentralized music player so you and your friends can share your legally obtained MP3s or, with full streaming and lossless support by default using the .miku container format.*
 
 ### full skillset
