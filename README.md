@@ -17,13 +17,15 @@ im going to be honest sometimes i can't even say my own nickname lol.
 
 ### here's what i'm working on:
 1. **LinkMC** - *a minecraft and discord account verification platform. (REWRITTEN)*
-2. **Project: Chlorine** (live mixing software) - *an advanced live A/V mixing software that harnesses CorridorKey in a Live Export usable format.*
+2. **Project: NeoCommander** - *rust based almost-legacy system reviver by taking advantage of kiosk mode (on top of linux)*
 3. **Astrus Project** - *a self hostable security focused replacement for Discord, taking the best of Discord, Teamspeak, and Slack and making it self-hostable. Like Matrix but better for friend groups & communities.
 
 #### now as a side project:
 * **Mountain** - *a minecraft java pvp client for version 1.8, with minor 1.16 and 26.x support.*
 * **statusd** - *a simple way to watch all of your various homeserver machines and processes quickly using*
-* "**.mikuPlayer**" - *a self-hostable & decentralized music player so you and your friends can share your legally obtained MP3s or, with full streaming and lossless support by default using the .miku container format.*
+* "**.mikuPlayer**" - *a self-hostable & decentralized music player so you and your friends can share your legally obtained MP3s or, with full streaming and lossless support by default using the .miku container format.*"
+* ON HOLD: **Project: Chlorine** (live mixing software) - *an advanced live A/V mixing software that harnesses CorridorKey in a Live Export usable format.*
+
 
 ### full skillset
 
